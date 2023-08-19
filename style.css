@@ -60,10 +60,10 @@ body {
     margin-bottom: 20px;
 }
 
-.h4 {
+.name {
     display: flex;
     font-weight: 700;
-    color: var(--Darkgrayishblue);
+    color: var(--Verydarkdesaturatedblue);
 }
 
 p {
