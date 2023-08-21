@@ -7,4 +7,4 @@ This is my Live Preview of Website:
 https://tamanhansalia.github.io/profile-card-component-main/
 
 
-Challenge By Frontend mentor 
+Challenge By Frontendmentor 
